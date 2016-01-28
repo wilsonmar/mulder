@@ -7,7 +7,7 @@ static website, suitable for serving with your favorite web server.
 
 ## The Interface
 
-Interacting with Mulder is done through a command line interface using it's available commands.
+Interacting with Mulder is done through a command line interface using its available commands.
 
     $ mulder create site <path>
 
